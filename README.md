@@ -1,17 +1,17 @@
-# System Administration
-Basic GUI is created for updating GRUB, User Management, setting File permission,
-changing nice value, creating piechart for CPU usage.
+# System Administration Assignments
+Basic GUI for System Administration is created. It includes functionality like updating GRUB, User Management, setting File permission,
+changing nice value, creating piechart for CPU usage. Each functionality is in different assignments.
 
 ## Task Completed
 1. Updating GRUB - Changing TimeOut value, Changing Default Value
 2. Automatic Shutdown and Restart
 3. User Management
-..* Addition of User and Group by name, groupid
-..* Deletion of User by name
-..* Batch User add 
+- Addition of User and Group by name, groupid
+- Deletion of User by name
+- Batch User add 
 4. File permission
-..* Umask Calculator for files and directories
-..* Changing file permission (adding or deleting) by inserting value 
+- Umask Calculator for files and directories
+- Changing file permission (adding or deleting) by inserting value 
 5. Piechart of CPU usage
 6. Changing Nice value by inserting Priority value and Process ID(PID) 
 
@@ -22,10 +22,10 @@ changing nice value, creating piechart for CPU usage.
 4. Changing File Permission using characters (eg: chmod a+x filename).
 5. Rsyslog and Logger File. 
 6. Batch user deletion.
-7. Enchancement of GUI.
+7. Enhancement of GUI.
 
 ## Requirements
-* Python >=3.6.1
+* Python >=3.5
 * Tkinter
 
 
