@@ -16,13 +16,17 @@ changing nice value, creating piechart for CPU usage. Each functionality is in d
 6. Changing Nice value by inserting Priority value and Process ID(PID) 
 
 ## Task to be done (GUI)
-1. Popup for taking sudo password
+1. Popup for taking sudo password(Partially done)
 2. Changing Bootsplash Screen and OS Logo in Arch Linux.
-3. Creating Dynamic Piechart for CPU and Memory usage.
-4. Changing File Permission using characters (eg: chmod a+x filename).
+3. ~~Creating Dynamic Piechart for CPU and Memory usage~~.
+4. ~~Changing File Permission using characters (eg: chmod a+x filename).~~
 5. Rsyslog and Logger File. 
 6. Batch user deletion.
 7. Enhancement of GUI.
+8. Crontester
+9. Switching reboot and shutdown button.
+10. umask calculation using character.
+11.
 
 ## Requirements
 * Python >=3.5
